@@ -10,7 +10,6 @@ public class Menu {
         System.out.println(menu[0]);
         System.out.println(menu[1]);
         System.out.println(menu[2]);
-        System.out.println(menu[3]);
 
 
         }
